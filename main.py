@@ -1,6 +1,6 @@
 # Programmer Name: Oreoluwa Adebusoye
 # Program Name: Shipment Weight and Cost Calculation Program
-# What program does: This program
+# What program does: This program calculates the shipping costs of items
 
 
 # Prompt the user to enter the total number of items they are planning to ship
