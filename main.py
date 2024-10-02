@@ -2,6 +2,8 @@
 # Program Name: Shipment Weight and Cost Calculation Program
 # What program does: This program calculates the shipping costs of items
 
+# Purpose output
+print("Hi there! This program helps you to determine your total shipping cost based on the weight and number of the items being shipped.\n")
 
 # Prompt the user to enter the total number of items they are planning to ship
 num_items = int(input("Enter the number of items being shipped: "))
